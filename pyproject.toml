@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ship_detection"
+version = "0.1.0"
+dependencies = [
+]
+requires-python = ">=3.12"
+authors = [
+  {name = "Natalia Abramowicz", email = "nabramowicz@student.agh.edu.pl"},
+  {name = "Piotr Cięgotura"},
+  {name = "Zuzanna Słobodzian"},
+  {name = "Anna Staniszewska"},
+]
+description = "Package for detection ships"
+readme = "README.md"
+keywords = ["ships", "sea", "water", "SAR", "detection"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python"
+]
+
+[project.urls]
+Repository = "https://github.com/Geoinformatics-Applications-Python/final-project-poszukiwacze-zywych-statkow"

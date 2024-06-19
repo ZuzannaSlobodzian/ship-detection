@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+earthengine-api = "*"
+geemap = "*"
+setuptools = "*"
+traitlets = "*"
+streamlit = "*"
+streamlit-folium = "*"
+google-auth = "*"
+google-auth-oauthlib = "*"
+google-auth-httplib2 = "*"
+folium = "*"
+ipykernel = "*"
+ipyleaflet = "*"
+jupyter-leaflet = "*"
+ipywidgets = "*"
+pandas = "*"
+geopandas = "*"
+shapley = "*"
+fiona = "*"
+ship-detection = {file = ".", editable = true}
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

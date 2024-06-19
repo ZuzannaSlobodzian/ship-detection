@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+setup.py
+src/ship_detection/__init__.py
+src/ship_detection/arg_parser.py
+src/ship_detection/authenticate.py
+src/ship_detection/detecting.py
+src/ship_detection/extract_points.py
+src/ship_detection/layout.py
+src/ship_detection/masks.py
+src/ship_detection/regions.py
+src/ship_detection.egg-info/PKG-INFO
+src/ship_detection.egg-info/SOURCES.txt
+src/ship_detection.egg-info/dependency_links.txt
+src/ship_detection.egg-info/top_level.txt

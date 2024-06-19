@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: ship_detection
+Version: 0.1.0
+Summary: Package for detection ships
+Author: Piotr Cięgotura, Zuzanna Słobodzian, Anna Staniszewska
+Author-email: Natalia Abramowicz <nabramowicz@student.agh.edu.pl>
+Project-URL: Repository, https://github.com/Geoinformatics-Applications-Python/final-project-poszukiwacze-zywych-statkow
+Keywords: ships,sea,water,SAR,detection
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Itx05xVz)
 
 To activate this project's virtualenv, run 
